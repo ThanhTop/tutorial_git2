@@ -1,3 +1,4 @@
 đến cả con khỉ cũng hiểu được git
 add: Đăng ký thay đổi trong index 
 change 2
+
